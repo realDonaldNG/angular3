@@ -3,3 +3,7 @@
 
 # Angular 3
 Make Angular Great Again!
+
+## Todo
+ * Build a wall between angular 2 and angular 3
+ * keep the dirty Ecmascript 5 people out ( they aren't all rapists but a lot are)
